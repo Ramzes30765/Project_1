@@ -70,7 +70,7 @@
 
 ### 7. Визуализация
 
-Ссылка на 
+Посмотреть [notebook](https://nbviewer.org/github/Ramzes30765/Project_1/blob/4db33abaf900c2340225c7b6d5dbfc15e15896c8/Project-1%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HeadHunter.ipynb) с отображением интерактивных диаграмм.
 
 Ссылки на диаграммы
 * [Распределение соискателей по возрасту](https://htmlpreview.github.io/?https://github.com/Ramzes30765/Project_1/blob/ac9cfadaaf771d472519c0a90add96b5e53568e0/charts/hist_age.html)
