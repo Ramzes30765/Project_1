@@ -69,6 +69,9 @@
 :arrow_up:[к оглавлению](https://github.com/Ramzes30765/Project_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### 7. Визуализация
+
+Ссылка на 
+
 Ссылки на диаграммы
 * [Распределение соискателей по возрасту](https://htmlpreview.github.io/?https://github.com/Ramzes30765/Project_1/blob/ac9cfadaaf771d472519c0a90add96b5e53568e0/charts/hist_age.html)
 * [Распределение соискателей по опыту работы](https://htmlpreview.github.io/?https://github.com/Ramzes30765/Project_1/blob/ac9cfadaaf771d472519c0a90add96b5e53568e0/charts/hist_exp.html)
